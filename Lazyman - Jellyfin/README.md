@@ -16,7 +16,7 @@ Steps to install:
 4. Restart Jellyfin
 
 or add repository:
-https://raw.githubusercontent.com/crobibero/Jellyfin.Channels.LazyMan/master/manifest.json
+https://raw.githubusercontent.com/KX1988/Lazyman/main/Lazyman%20-%20Jellyfin/manifest.json
 
 docker compose sample:
 
